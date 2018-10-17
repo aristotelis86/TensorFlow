@@ -18,7 +18,7 @@ or (if you want GPU support):
 ## Environment
 I recommend creating a conda environoment so you do not destroy your main installation in case you make a mistake somewhere:
 
-    conda create --name tf_3.6 python=3.6 ipykernal
+    conda create --name tf_3.6 python=3.6 ipykernel
 You can activate the new environment by running the following (on Linux):
 
     source activate tf
